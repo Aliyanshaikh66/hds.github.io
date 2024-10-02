@@ -477,17 +477,17 @@ ul.btn li:last-child {
 
 .text-bg span {
      color: #fff;
-     font-size: 42px;
-     line-height: 50px;
+     font-size: 40px;
+     line-height: 60px;
      font-weight: normal;
-     padding-bottom: 18px;
+     padding-bottom: 12px;
      display: block;
 }
 
 .text-bg p {
      line-height: 22px;
      font-weight: 500;
-     padding-bottom: 65px;
+     padding-bottom: 35px;
      display: block;
 }
 
@@ -497,9 +497,9 @@ ul.btn li:last-child {
 }
 
 .text_img {
-     margin-right: -130px;
-     height: 75vh;
-     scale: 0.888854;
+     margin-right: -250px;
+     height: 50vh;
+     scale: 0.888954;
 }
 
 .text_imgm img {
